@@ -1,0 +1,16 @@
+{
+  "Name": "BIDS Audio and Music Dataset Example",
+  "BIDSVersion": "1.6.0",
+  "DatasetType": "raw",
+  "Authors": [
+    "Author One",
+    "Author Two"
+  ],
+  "Acknowledgements": "We thank all participants and contributors.",
+  "Funding": [
+    "Grant A",
+    "Grant B"
+  ],
+  "HowToAcknowledge": "Please cite this dataset as ...",
+  "License": "CC0"
+}

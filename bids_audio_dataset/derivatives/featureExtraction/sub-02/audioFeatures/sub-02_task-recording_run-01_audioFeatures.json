@@ -1,0 +1,8 @@
+{
+  "Description": "Basic audio features extracted from speech recording.",
+  "Software": "librosa",
+  "Version": "0.9.2",
+  "Parameters": {
+    "feature_set": "basic"
+  }
+}

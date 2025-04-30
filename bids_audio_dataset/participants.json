@@ -1,0 +1,14 @@
+{
+  "participant_id": {
+    "LongName": "Participant Identifier",
+    "Description": "Unique label assigned to each participant."
+  },
+  "age": {
+    "LongName": "Age",
+    "Description": "Age of the participant in years."
+  },
+  "sex": {
+    "LongName": "Sex",
+    "Description": "Biological sex of the participant (M/F or other coding as applicable)."
+  }
+}

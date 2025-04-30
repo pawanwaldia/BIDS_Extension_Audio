@@ -1,0 +1,10 @@
+{
+  "SamplingFrequency": 44100,
+  "AudioDuration": 120.5,
+  "AudioChannels": 2,
+  "BitDepth": 16,
+  "RecordingType": "live performance",
+  "MicrophoneModel": "Shure SM57",
+  "Environment": "concert hall",
+  "Comments": "High-quality live recording during the main performance."
+}

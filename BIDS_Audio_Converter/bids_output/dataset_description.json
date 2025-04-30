@@ -1,0 +1,6 @@
+{
+  "Name": "Converted Audio Dataset",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "Authors": ["Auto Converter Tool"]
+}

@@ -1,0 +1,7 @@
+{
+  "SamplingFrequency": 44100,
+  "AudioDuration": 95.0,
+  "AudioChannels": 1,
+  "RecordingType": "speech",
+  "Environment": "studio"
+}
